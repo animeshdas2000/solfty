@@ -9,9 +9,15 @@
   },
   "dependencies": {
     "@emotion/css": "^11.10.5",
+    "@metaplex-foundation/js": "^0.17.6",
+    "@moralisweb3/core": "^2.7.4",
+    "@moralisweb3/sol-api": "^2.7.4",
+    "@solana/web3.js": "^1.66.2",
+    "moralis": "^2.7.4",
     "next": "13.0.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-moralis": "^1.4.2"
   },
   "devDependencies": {
     "eslint": "8.28.0",
